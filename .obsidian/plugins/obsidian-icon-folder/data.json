@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiAdjustments",
+      "TiFileInvoice",
+      "TiBooks",
+      "TiPencil",
+      "TiBrush",
+      "TiPresentation",
+      "TiUsersGroup",
+      "TiCalendar",
+      "TiBallpen",
+      "TiGlobe"
+    ],
+    "recentlyUsedIconsSize": 20,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "brain-matter/00 - Resources": "TiBooks",
+  "brain-matter/01 - Knowledge": "TiPencil",
+  "brain-matter/04 - Presentations": "TiPresentation",
+  "brain-matter/99 - Templates & Guides": "TiAdjustments",
+  "brain-matter/03 - Daily Notes": "TiCalendar",
+  "brain-matter/02 - Excalidraw": "TiBrush",
+  "brain-matter/05 - Attachments": "TiFileInvoice"
+}

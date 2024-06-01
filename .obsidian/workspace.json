@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e12bb9cabc980995",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf5a24ae84fcd752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc3874985688086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brain-matter/04 - Presentations/My First Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0db7d6c5ae261142",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e270259fdfd08f7",
+        "type": "tabs",
+        "dimension": 50.347222222222214,
+        "children": [
+          {
+            "id": "318ab650e615228a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "503a81fc38421308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f7fa27a1241496e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "81ab1894a6e8fcf1",
+        "type": "tabs",
+        "dimension": 49.652777777777786,
+        "children": [
+          {
+            "id": "dee431a75b7cc579",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e62359c6febfad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71f24118132d7e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367b3680a8899b32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f26f90e2cf9baece",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "883167d0364fc499",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ad11be7729b5077",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ea275552e445bac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d149d7359a3fded6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d149d7359a3fded6",
+  "lastOpenFiles": [
+    "brain-matter/04 - Presentations/My First Presentation.md",
+    "brain-matter/01 - Knowledge/Obsidian.md",
+    "brain-matter/03 - Daily Notes/2024-06-01.md",
+    "brain-matter/01 - Knowledge/Untitled.md",
+    "brain-matter/01 - Knowledge/2024-05-31.md",
+    "brain-matter/01 - Knowledge/Templater.md",
+    "brain-matter/01 - Knowledge/Obsidian - Plugins.md",
+    "brain-matter/01 - Knowledge/Notes - The Effect of Folder Structure on Personal File Navigation.md",
+    "brain-matter/01 - Knowledge/Markdown.md",
+    "brain-matter/01 - Knowledge/GitHub.md",
+    "brain-matter/01 - Knowledge/Git vs. Github.md",
+    "brain-matter/01 - Knowledge/Git.md",
+    "brain-matter/01 - Knowledge/Front Matter.md",
+    "brain-matter/01 - Knowledge/Excalidraw.md",
+    "brain-matter/01 - Knowledge/Calendar.md",
+    "brain-matter/99 - Templates & Guides/Guides/Obsidian - Vault Overview.md",
+    "brain-matter/99 - Templates & Guides/Guides",
+    "brain-matter/00 - Resources/The effect of folder structure on personal file navigation.md",
+    "brain-matter/02 - Excalidraw/Drawing 2024-06-01 13.24.12.excalidraw.md",
+    "brain-matter/02 -Excalidraw/Drawing 2024-06-01 13.23.52.excalidraw.md",
+    "brain-matter/02 -Excalidraw",
+    "brain-matter/01 - Knowledge/[Git.md",
+    "brain-matter/03 - Daily Notes/2024-05-25.md",
+    "brain-matter/03 - Daily Notes/2024-05-31.md",
+    "brain-matter/01 - Knowledge/Merge Conflict.md",
+    "brain-matter/05 - Attachments/obsidian-logo.png",
+    "Obsidian - Syntax.md",
+    "brain-matter/99 - Templates & Guides/Templates/Daily.md",
+    "brain-matter/02 - Excalidraw/2024-05-31.md",
+    "Calendar/Daily Notes",
+    "Calendar",
+    "brain-matter/99 - Templates & Guides/Templates",
+    "brain-matter/Untitled.canvas",
+    "brain-matter/99 - Templates & Guides",
+    "brain-matter/07 -",
+    "brain-matter/05 - Attachments",
+    "brain-matter/05 - Excalidraw",
+    "brain-matter/04 - Presentations",
+    "Untitled.canvas"
+  ]
+}
