@@ -20,7 +20,7 @@ You can also advance to the next slide by pressing Spacebar.
 --- 
 ## Formatting 
 
-You can use regular Markdown formatting, like *emphasised* and **bold** text and any other [[Markdown]] formatting. 
+You can use regular Markdown formatting, like *emphasized* and **bold** text and any other [[Markdown]] formatting. 
 
 --- 
 ## Slides 

@@ -1,3 +1,7 @@
+---
+tags:
+  - subject
+---
 ### What is GitHub?
 
 GitHub is a website and service that helps people manage and store their projects. It's like a super organized digital filing cabinet where you can keep track of all the changes you make to your files. Imagine if you had a time machine that let you go back and see every version of your work; that's what GitHub does for digital projects.

@@ -1,3 +1,7 @@
+---
+tags:
+  - subject
+---
 > [!info] 
 > [[Git]] is source control software, so you don't have to make a Thesis_v3_final_final.pdf ever again
 ### What is Git?
