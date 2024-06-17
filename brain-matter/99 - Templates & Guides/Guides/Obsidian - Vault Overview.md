@@ -44,6 +44,11 @@ The Attachments folder is used for storing all file attachments that you referen
 
 The Templates & Guides folder contains all your note templates and guides. Templates help ensure consistency across your notes and save time by providing predefined structures for common types of notes. This is particularly useful for maintaining a standard format in your research and note-taking processes.
 
+#### Smart Connections
+
+**Path**: `/smart-chats`
+
+The Smart Connections plugin enhances your ability to manage and retrieve information within your vault. The Smart Chats folder holds all your past chats, making it easy to revisit and search through your previous interactions. This feature allows you to utilize AI to explore connections and insights in your notes, helping you uncover hidden relationships and enhance your research.
 ### How It All Works Together
 
 - **Resources** provide the foundational information that feeds into your **Knowledge**.
@@ -53,6 +58,7 @@ The Templates & Guides folder contains all your note templates and guides. Templ
 - **Presentations** are created using the synthesized information from **Knowledge** and **Resources**.
 - **Attachments** are linked throughout your vault to provide supplementary information.
 - **Templates** ensure your notes are consistently formatted and organized efficiently.
+- **Smart Connections** allow you to leverage AI ( *[[gpt-3.5]] developed by [[OpenAI]]* ) for discovering insights and connections within your notes, enhancing the depth and breadth of your research.
 
 In addition, we use #subject to denote core subjects within our notes. This tagging system helps in organizing and categorizing the vast amount of information within the vault. For instance, the file [[Obsidian]] refers to the core subject of our note-taking system, whereas [[Obsidian - Plugins|plugins]] refers to a smaller portion of this larger core subject. This distinction helps in managing and retrieving information effectively.
 

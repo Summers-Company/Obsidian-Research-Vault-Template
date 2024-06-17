@@ -51,3 +51,5 @@ These plugins enhance your note-taking experience by improving organization, vis
 
 > [!info]
 > To explore more about these plugins and how to use them, visit the [Obsidian Community Plugins](https://obsidian.md/plugins) page.
+> 
+> To learn more about how to use AI made by [[OpenAI]] in your vault go to [Smart Connections](app://obsidian.md/Smart%20Connections)

@@ -1,6 +1,7 @@
 {
   "userIgnoreFilters": [
-    "brain-matter/99 - Templates & Guides/Templates/"
+    "brain-matter/99 - Templates & Guides/Templates/",
+    "smart-chats/"
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "brain-matter/01 - Knowledge",

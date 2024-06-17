@@ -3,9 +3,9 @@ tags:
   - subject
 ---
 > [!success] 
->  🥳 Yay, you installed Obsidian. For a nice exteranal guide, look at the [obsidian documentation](https://help.obsidian.md/Obsidian/Index)
+>  🥳 Yay, you installed Obsidian. For a nice external guide, look at the [obsidian documentation](https://help.obsidian.md/Obsidian/Index)
 
-Welcome to this Vault, your dedicated space for leveraging [[Obsidian]] as a powerful second brain to aid your academic research. This vault is designed to demonstrate the effective use of Obsidian and [[Git]]/[[GitHub]] in academia (*Git and GitHub **are in fact different** learn more at [[Git vs. Github]]*). We've integrated essential plugins and custom templates that will assist you in getting the most out of your research.
+Welcome to this Vault, your dedicated space for leveraging [[Obsidian]] as a powerful second brain to aid your academic research. This vault is designed to demonstrate the effective use of Obsidian, [[OpenAI|AI]] and [[Git]]/[[GitHub]] in academia (*Git and GitHub **are in fact different** learn more at [[Git vs. Github]]*). We've integrated essential plugins and custom templates that will assist you in getting the most out of your research.
 
 Continue reading to discover the benefits and functionalities of [[Obsidian]].
 # Philosophy
@@ -21,6 +21,8 @@ The core idea behind [[Obsidian]] is to move away from rigid folder structures a
 
 >[!Example]
 > ### Rigid File Structures vs. Obsidian for a Meme
+>
+>![[keyboard-cat.jpg]]
 > 
 > #### Rigid File Structures
 > 

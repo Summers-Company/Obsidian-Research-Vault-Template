@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#subject  ",
-      "color": {
-        "a": 1,
-        "rgb": 14777035
-      }
-    },
-    {
       "query": "path:\"brain-matter/00 - Resources\"  ",
       "color": {
         "a": 1,
@@ -36,17 +29,17 @@
       }
     },
     {
+      "query": "tag:#core-note  ",
+      "color": {
+        "a": 1,
+        "rgb": 14777035
+      }
+    },
+    {
       "query": "path:\"brain-matter/03 - Daily Notes\"  ",
       "color": {
         "a": 1,
         "rgb": 4422899
-      }
-    },
-    {
-      "query": "path:\"brain-matter/04 - Presentations\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9717496
       }
     }
   ],
@@ -60,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6905954751525395,
+  "scale": 1.5274962414789952,
   "close": true
 }

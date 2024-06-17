@@ -1,4 +1,9 @@
-## Notes on [[The effect of folder structure on personal file navigation]]]
+---
+tags:
+  - 🗒️Research-Notes
+---
+
+## Notes on [[The effect of folder structure on personal file navigation]]
 
 **Authors**: Ofer Bergman, Steve Whittaker, Mark Sanderson, Rafi Nachmias, Anand Ramamoorthy
 

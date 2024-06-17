@@ -1,4 +1,3 @@
-
 Front matter is a way to include metadata at the beginning of a Markdown file. This metadata is often used to provide information about the document, such as the title, author, date, tags, and other relevant details. In Obsidian and many other Markdown-based tools, front matter is defined using YAML (Yet Another Markup Language).
 ### Structure of Front Matter
 

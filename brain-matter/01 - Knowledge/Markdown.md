@@ -19,6 +19,12 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
   ## H2
 
   ### H3
+  
+  #### H4
+
+  ##### H5
+  
+  ###### H6
 
   ```
 
@@ -26,6 +32,9 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
 ># H1
 >## H2
 >### H3
+>#### H4
+>##### H5
+>###### H6
 
 - **Emphasis**: Use `*` or `_` for italic and `**` or `__` for bold.
 
@@ -107,7 +116,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
   ```
 
 > [!important]
- > This is an important callout.
+ This is an important callout.
 
 By understanding these basic Markdown elements and Obsidian's additional features, you can effectively organize and format your notes to suit your academic and personal needs.
 

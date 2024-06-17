@@ -22,8 +22,7 @@ Follow these steps to download this repository and set it up as an Obsidian vaul
 4. **Trust the Author and Enable Plugins**
    - When you open the vault for the first time, you will see a prompt like this:
 
-  ![[trust-author.png]]
-
+ ![Trust the Author Prompt](./brain-matter/05%20-%20Attachments/trust-author.png)
    - This prompt is asking if you trust the author of this vault because it contains plugins.
    - If you have never used Obsidian before, it is essential to know that plugins can enhance functionality but might pose security risks if from an unknown source.
    - To proceed, click the "Trust author and enable plugins" button.

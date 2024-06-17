@@ -1,0 +1,21 @@
+{
+  "file-explorer:new-file": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspace:new-tab": [],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
