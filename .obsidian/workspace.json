@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b52ffc928ed23810",
+        "id": "42df0a944e475858",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2594d4623eb198",
+            "id": "875998c98504fb90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brain-matter/03 - Daily Notes/2024-06-01.md",
-                "mode": "source",
+                "file": "brain-matter/01 - Knowledge/Obsidian.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e4be5da1655eed64",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -58,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "81ab1894a6e8fcf1",
@@ -88,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "brain-matter/01 - Knowledge/Obsidian.md"
+              }
             }
           }
         ]
@@ -131,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "brain-matter/01 - Knowledge/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "brain-matter/01 - Knowledge/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +192,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e4be5da1655eed64",
+  "active": "875998c98504fb90",
   "lastOpenFiles": [
-    "brain-matter/01 - Knowledge/Obsidian.md",
     "brain-matter/03 - Daily Notes/2024-06-01.md",
+    "brain-matter/01 - Knowledge/Obsidian.md",
     "brain-matter/01 - Knowledge/Templater.md",
     "smart-chats/UNTITLED CHAT 2024-06-17 14 46 32.md",
     "brain-matter/01 - Knowledge/Smart Connections.md",
