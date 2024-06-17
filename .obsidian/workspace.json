@@ -4,42 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "74fdcbb0d8235a47",
+        "id": "b52ffc928ed23810",
         "type": "tabs",
         "children": [
           {
-            "id": "7b70122c2b91cf6b",
+            "id": "fb2594d4623eb198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brain-matter/03 - Daily Notes/2024-06-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4be5da1655eed64",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d086c457141b7191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brain-matter/01 - Knowledge/Large Language Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6c38bbb86200301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brain-matter/01 - Knowledge/Obsidian - Plugins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +58,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "openai",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "81ab1894a6e8fcf1",
@@ -207,21 +197,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7b70122c2b91cf6b",
+  "active": "e4be5da1655eed64",
   "lastOpenFiles": [
-    "brain-matter/01 - Knowledge/Obsidian - Plugins.md",
     "brain-matter/01 - Knowledge/Obsidian.md",
-    "brain-matter/01 - Knowledge/Notes - The Effect of Folder Structure on Personal File Navigation.md",
-    "brain-matter/01 - Knowledge/Markdown.md",
-    "brain-matter/01 - Knowledge/Large Language Model.md",
-    "brain-matter/01 - Knowledge/GitHub.md",
-    "brain-matter/01 - Knowledge/Git vs. Github.md",
-    "brain-matter/01 - Knowledge/Git.md",
-    "brain-matter/01 - Knowledge/Front Matter.md",
-    "brain-matter/01 - Knowledge/Excalidraw.md",
-    "brain-matter/01 - Knowledge/Calendar.md",
-    "brain-matter/99 - Templates & Guides/Guides/Obsidian - Vault Overview.md",
     "brain-matter/03 - Daily Notes/2024-06-01.md",
+    "brain-matter/01 - Knowledge/Templater.md",
+    "smart-chats/UNTITLED CHAT 2024-06-17 14 46 32.md",
+    "brain-matter/01 - Knowledge/Smart Connections.md",
+    "brain-matter/01 - Knowledge/Notes - The Effect of Folder Structure on Personal File Navigation.md",
+    "brain-matter/01 - Knowledge/Large Language Model.md",
+    "brain-matter/01 - Knowledge/Git vs. Github.md",
+    "brain-matter/01 - Knowledge/Front Matter.md",
+    "brain-matter/01 - Knowledge/Calendar.md",
+    "brain-matter/01 - Knowledge/Obsidian - Plugins.md",
+    "brain-matter/01 - Knowledge/Markdown.md",
+    "brain-matter/01 - Knowledge/GitHub.md",
+    "brain-matter/01 - Knowledge/Git.md",
+    "brain-matter/01 - Knowledge/Excalidraw.md",
+    "brain-matter/99 - Templates & Guides/Guides/Obsidian - Vault Overview.md",
     "brain-matter/05 - Attachments/keyboard-cat.jpg",
     "brain-matter/03 - Daily Notes/2024-06-14.md",
     "brain-matter/03 - Daily Notes/2024-06-13.md",
@@ -233,9 +226,6 @@
     "brain-matter/03 - Daily Notes/2024-05-22.md",
     "brain-matter/99 - Templates & Guides/Templates/Research Template.md",
     "brain-matter/01 - Knowledge/My Research Note.md",
-    "brain-matter/01 - Knowledge/Test Note.md",
-    "brain-matter/01 - Knowledge/TEst.md",
-    "brain-matter/99 - Templates & Guides/Templates/Daily.md",
     "brain-matter/05 - Attachments/trust-author.png",
     "brain-matter/05 - Attachments/Screenshot 2024-06-17 063454.png",
     "brain-matter/05 - Attachments/obsidian-logo.png",

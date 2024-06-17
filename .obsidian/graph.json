@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#subject  ",
+      "color": {
+        "a": 1,
+        "rgb": 16629562
+      }
+    },
+    {
       "query": "path:\"brain-matter/00 - Resources\"  ",
       "color": {
         "a": 1,
@@ -41,6 +48,13 @@
         "a": 1,
         "rgb": 4422899
       }
+    },
+    {
+      "query": "path:\"brain-matter/04 - Presentations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9717496
+      }
     }
   ],
   "collapse-display": true,
@@ -48,7 +62,7 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,

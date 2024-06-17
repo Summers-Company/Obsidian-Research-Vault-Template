@@ -70,4 +70,3 @@ Templater allows you to create highly customized templates tailored to your spec
 The Templater plugin for [[Obsidian]] is a versatile tool that enhances your note-taking efficiency and consistency. By leveraging templates, researchers can streamline their workflow, ensure uniformity in documentation, and save valuable time. Whether you are a beginner or an advanced user, the Templater plugin offers functionalities that can significantly improve your productivity in [[Obsidian]].
 
 For further details and advanced usage, you can visit the [Templater Documentation](https://github.com/SilentVoid13/Templater).
-``` &#8203;:citation[oaicite:0]{index=0}&#8203;
